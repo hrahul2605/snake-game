@@ -1,0 +1,8 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "A simple snake game",
+  "main": "index.html",
+  "author": "hrahul2605",
+  "license": "MIT"
+}
